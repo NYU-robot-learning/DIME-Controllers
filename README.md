@@ -1,5 +1,5 @@
 # DIME Controller
-This repository contains the installer and python wrapper for controlling an Allegro Hand attached to a Kinova JACO Arm. It is part of the official implementation of [DIME](https://arxiv.org/abs/2203.13251). 
+This repository contains the installer and python wrapper for controlling an Allegro Hand attached to a Kinova JACO Arm. It is part of the official implementation of [DIME](https://arxiv.org/abs/2203.13251). The base repo containing all the information can be found at [DIME - Models](https://github.com/NYU-robot-learning/DIME-Models).
 
 This repository contains symlinks connecting to the following repositories:
 
