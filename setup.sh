@@ -54,4 +54,5 @@ catkin_make
 # Setting up the source command in the bashrc file
 curr_dir=`pwd`
 echo "source $curr_dir/devel/setup.bash" >> ~/.bashrc
+echo "export PYTHONPATH=$curr_dir" >> ~/.bashrc
 source ~/.bashrc
